@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação Java desenvolvida usando Swing para simular o cálculo do valor final de uma venda, baseado na forma de pagamento escolhida pelo usuário.
 
-###📋 Sobre o Projeto
+## 📋 Sobre o Projeto
 
 A aplicação permite que o usuário:
 
@@ -12,7 +12,7 @@ A aplicação permite que o usuário:
 
 - Visualize o preço final ajustado conforme o método de pagamento.
 
-## Regras de Cálculo:
+### Regras de Cálculo:
 
 - Dinheiro: desconto de 5% no valor da venda.
 
@@ -22,13 +22,13 @@ A aplicação permite que o usuário:
 
 🛠️ Como o Código Funciona
 
-## Estrutura Principal
+### Estrutura Principal
 
 - A classe CalculadoraPrecoFinal herda de JFrame, criando a janela principal.
 
 - A interface gráfica é construída usando o layout GridLayout, organizando os campos e botões de forma simples.
 
-## Componentes Utilizados:
+### Componentes Utilizados:
 
 - JLabel para exibir os textos.
 
@@ -38,7 +38,7 @@ A aplicação permite que o usuário:
 
 - JButton para os botões Calcular e Limpar.
 
-## Lógica dos Botões:
+### Lógica dos Botões:
 
 - Calcular:
 
@@ -59,7 +59,7 @@ Tratamento de Erros:
 - Se o usuário digitar um valor inválido, será exibida uma mensagem de erro através de JOptionPane.
 
 
-## Interface da Aplicação 📸
+### Interface da Aplicação 📸
 
 - A interface é semelhante a essa:
 
