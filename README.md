@@ -1,6 +1,6 @@
 # Calculadora de Preço Final
 
-# Este projeto é uma aplicação Java desenvolvida usando Swing para simular o cálculo do valor final de uma venda, baseado na forma de pagamento escolhida pelo usuário.
+Este projeto é uma aplicação Java desenvolvida usando Swing para simular o cálculo do valor final de uma venda, baseado na forma de pagamento escolhida pelo usuário.
 
 📋 Sobre o Projeto
 
