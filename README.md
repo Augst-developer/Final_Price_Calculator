@@ -20,7 +20,9 @@ A aplicação permite que o usuário:
 
 - Cartão: acréscimo de 10% no valor da venda.
 
-### Como o Código Funciona
+
+### Como o Código Funciona:
+
 
 ## Estrutura Principal
 
