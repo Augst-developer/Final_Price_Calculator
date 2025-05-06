@@ -59,10 +59,3 @@ A aplicação permite que o usuário:
 Tratamento de Erros:
 
 - Se o usuário digitar um valor inválido, será exibida uma mensagem de erro através de JOptionPane.
-
-
-### Interface da Aplicação 📸
-
-- A interface é semelhante a essa:
-
-![img.png](img.png)
