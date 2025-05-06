@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação Java desenvolvida usando Swing para simular o cálculo do valor final de uma venda, baseado na forma de pagamento escolhida pelo usuário.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 A aplicação permite que o usuário:
 
@@ -20,15 +20,15 @@ A aplicação permite que o usuário:
 
 - Cartão: acréscimo de 10% no valor da venda.
 
-🛠️ Como o Código Funciona
+### Como o Código Funciona
 
-### Estrutura Principal
+## Estrutura Principal
 
 - A classe CalculadoraPrecoFinal herda de JFrame, criando a janela principal.
 
 - A interface gráfica é construída usando o layout GridLayout, organizando os campos e botões de forma simples.
 
-### Componentes Utilizados:
+## Componentes Utilizados:
 
 - JLabel para exibir os textos.
 
@@ -38,7 +38,7 @@ A aplicação permite que o usuário:
 
 - JButton para os botões Calcular e Limpar.
 
-### Lógica dos Botões:
+## Lógica dos Botões:
 
 - Calcular:
 
